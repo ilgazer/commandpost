@@ -1,0 +1,3 @@
+rootProject.name = 'commandpost'
+include ':shared'
+project(':shared').projectDir = new File('../shared')
